@@ -1,0 +1,25 @@
+body {
+  background-image: url(hehe.jpg);
+}
+
+.game {
+  width: 100%;
+}
+.word {
+  display: flex;
+  justify-content: center;
+}
+.letter {
+  width: 200px;
+  height: 200px;
+  background: aqua;
+  border: 3px double white;
+  margin: 5px;
+  text-align: center;
+  font-size: 50px;
+  padding: 50px;
+}
+center {
+  font-size: 150px;
+  color: black;
+}
